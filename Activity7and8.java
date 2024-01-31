@@ -4,11 +4,11 @@ import javax.swing.*;
 public class Activity7and8_JOptionPane_Espijon {
 
     public static void main(String[] args) {
-        JFrame f = new JFrame("Home");
-        JButton b1 = new JButton("Register here");
-        JLabel l1 = new JLabel("Welcome to my system");
-        JLabel l2 = new JLabel("You need to register first");
-        JFrame f2 = new JFrame("Registration");
+        JFrame f = new JFrame("Anthony");
+        JButton b1 = new JButton("Monel");
+        JLabel l1 = new JLabel("Buganan");
+        JLabel l2 = new JLabel("BSIT 4B");
+        JFrame f2 = new JFrame("Final Project for Professor Buenaventura");
         JTextField tf1 = new JTextField("");
         JTextField tf2 = new JTextField("");
         JLabel uname = new JLabel("Enter username:");
